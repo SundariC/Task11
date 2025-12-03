@@ -29,7 +29,7 @@ Adjust scripts in package.json as needed.
 ## Usage
 1. Run the start script:
     npm start
-2. Open the app in your browser at render URL 
+2. Open the app in your browser at render URL : https://task11-eogc.onrender.com
 3. POSTMAN documentation link: https://documenter.getpostman.com/view/50347548/2sB3dMyBpc
 
 ## Project structure (example)
